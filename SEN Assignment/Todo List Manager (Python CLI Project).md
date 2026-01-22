@@ -1,4 +1,4 @@
-### README
+### Todo List Manager (Python CLI Project)
 
 ### 
 
